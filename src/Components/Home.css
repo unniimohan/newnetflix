@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+#homeContent_1{
+   
+    height: 600px;
+    background-image:linear-gradient(to top, rgba(0, 0, 0, 0.993) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%), url('../images/bg.jpg');
+   
+}
+#logo{
+    width: 100px;
+    height: 100px;
+}
